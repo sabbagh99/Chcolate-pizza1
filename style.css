@@ -214,10 +214,10 @@
   }
   
 #hr {
-    background-image: url(/assets/hr-img.png);
+    background-image: url(./assets/hr-img.png);
     background-repeat: repeat;
     height: 20px;
 }
 .img{
-    background-image: url(/assets/list-bg.png);
+    background-image: url(./assets/list-bg.png);
 }
